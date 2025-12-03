@@ -13,7 +13,7 @@ The goal of this project is to predict cancer stage (Stage I, II, or III) using 
 
 ## 🧪 Project Files
 
-- `1_Driftnet.ipynb`  
+- `Driftnet.ipynb`  
   Main notebook: trains the DriftNet model using VAE + contrastive learning and dual-branch neural network.
 
 - `Data_Preprocessing.ipynb`  
